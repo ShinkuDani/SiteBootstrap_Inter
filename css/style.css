@@ -31,5 +31,10 @@ body{
 }
 
 .vermelho{
-    color: red;
+    color: white;
+}
+
+#teste{
+    background-color: white;
+    color: white;
 }
